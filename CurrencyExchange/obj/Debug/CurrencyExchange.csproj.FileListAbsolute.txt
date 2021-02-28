@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\bin\Debug\CurrencyExchange.exe.config
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\bin\Debug\CurrencyExchange.exe
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\bin\Debug\CurrencyExchange.pdb
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.Form1.resources
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.Properties.Resources.resources
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.exe
+C:\Users\lenovo\Desktop\immodlab4\CurrencyExchange\obj\Debug\CurrencyExchange.pdb
