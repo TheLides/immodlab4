@@ -62,8 +62,9 @@ namespace CurrencyExchange
             else
             {
                 currentEuro += money;
-                ChangeAmount();
+                
             }
+            ChangeAmount();
         }
 
         private void bSell_Click(object sender, EventArgs e)
@@ -77,8 +78,9 @@ namespace CurrencyExchange
             else
             {
                 currentRubles += money * price;
-                ChangeAmount();
+                
             }
+            ChangeAmount();
         }
 
         private void ChangeAmount()
